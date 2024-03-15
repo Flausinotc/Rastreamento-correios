@@ -7,7 +7,7 @@ O Rastreamento de Códigos é uma aplicação que permite automatizar o processo
 1. Clone o repositório para sua máquina local:
 
 ```
-git clone https://github.com/seu-usuario/rastreamento-de-codigos.git
+git clone https://github.com/Flausinotc/Rastreamento-correios.git
 ```
 
 2. Navegue até o diretório do projeto:
